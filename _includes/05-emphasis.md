@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#### Experience Skills ####
+- *4 years* experience with **C++** for proyects.
+- *5 years* manage **HTML**.
+- *1 year* at real DB manage with **SQL**.
